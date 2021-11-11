@@ -2,7 +2,7 @@
 const exportedCurrency = {
   currency: {
     pending: false,
-    practices: [],
+    currency: {},
     error: null,
   },
 };
